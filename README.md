@@ -45,4 +45,23 @@ There are over 30+ neighborhoods in Las Vegas:
 * The Strip
 * Queensridge
 
+## Analysis
+
+As we can see from the time series plot, all the neighborhoods follow a similar pattern with an increase from 2000-2008 and then a decrease up to 2012 and then an increase to present time. 
+
+### Top 5 Neighborhoods in Las Vegas 2 BR AVG 20 Yr Prices
+1. The Strip - $484488
+2. Queensridge - $449178
+3. Summerlin South - $349058
+4. Downtown - $254567
+5. Sun City Summerlin - $247983
+
+### Bottom 5 Neighborhoods in Las Vegas 2 BR Prices 
+1. Cultural Corridor - $101731
+2. East Las Vegas - $103779
+3. Buffalo - $108150
+4. West Las Vegas - $111890
+5. Sunrise - $113230
+
+![image](https://github.com/dyoon11/Las-Vegas-2BR-Home-Prices-Trend/assets/147287123/3d56b1fa-2693-41a6-946b-7b8352204c95)
 
