@@ -56,7 +56,7 @@ As we can see from the time series plot, all the neighborhoods follow a similar 
 4. Downtown - $254567
 5. Sun City Summerlin - $247983
 
-### Bottom 5 Neighborhoods in Las Vegas 2 BR Prices 
+### Bottom 5 Neighborhoods in Las Vegas 2 BR AVG 20 Yr Prices 
 1. Cultural Corridor - $101731
 2. East Las Vegas - $103779
 3. Buffalo - $108150
