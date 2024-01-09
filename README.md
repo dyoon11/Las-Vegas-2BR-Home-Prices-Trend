@@ -68,3 +68,9 @@ As we can see from the time series plot, all the neighborhoods follow a similar 
 ## Prediction/Limitation
 
 As we are able to have historical prices of the neighborhoods in Las Vegas, we are able to predict the future prices for 2024. However, there are some limitations that go along with this. Since we have limited data, there is limited visibility in terms of future home prices. Home prices are constantly being affected by demand, supply, inflation, and interest rates. Since we only have past home data, what we are able to see will not truly affect what may happen. Nevertheless, we have trained a bot to take into consideration all the past home prices in Las Vegas and predict the next couple of months. 
+
+![image](https://github.com/dyoon11/Las-Vegas-2BR-Home-Prices-Trend/assets/147287123/86dfe7c1-f733-4b45-b0f1-aeefdc7baa25)
+
+## Conclusion
+
+In conclusion, we have analyzed the top 5/bottom 5 neighborhoods in 2 Bedroom home prices in Las Vegas. We have seen a similar trend in prices in all the homes from the graphs. We have also built a bot in Python to analyze the forecast of these homes' prices. However, we faced limitations in the capabilities of the bot due to a lack of data surrounding the elements that affect home prices (e.g., inflation, demand, etc.). With more data, we could feed more information to the bot so that it is trained to get more accurate data for furhter dates.
